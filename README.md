@@ -9,7 +9,7 @@ This is a code for generating quantum databse (or quantum digital twins) by extr
 6. It is easier to investigate error mitigation techniques than on the quantum server.
 7. It is eaier to analyze the impact of noisy quantum computers on your use cases.
    
-To use use this code, you can install the python environment: conda env create -f environment.yml (see https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+To use use this code, you can install the python environment: conda env create -f environment.yml (see official conda documentation)
    
 If you use this code in your research or in your study then we would appreciate in citing some of our works:
 https://ieeexplore.ieee.org/document/10339907, https://inspirehep.net/literature/2752266
