@@ -10,6 +10,8 @@
 # copyright notice, and modified files need to carry a notice indicating
 # that they have been altered from the originals.
 
+#this is the code altered from the originals. author: Soronzonbold Otgonbaatar
+
 """
 Functions to extract device error parameters from backend properties.
 """
