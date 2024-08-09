@@ -1,6 +1,6 @@
 # Quantum-Digital-Twins
 
-This is code for generating quantum databse by extracting quantum machines data from IBM quantum computers (open access). There are several advantages:
+This is a code for generating quantum databse by extracting quantum machines data from IBM quantum computers (open access). There are several advantages:
 1. It is local and fast for benchmarking noisy quantum computers.
 2. It is real quantum device database.
 3. It works even if the IBM server is down.
