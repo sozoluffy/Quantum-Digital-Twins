@@ -16,7 +16,9 @@ Scientific advantages:
 4. Analyze experimental data and draw meaningful conclusions to guide quantum system improvements.
    
 To use use this code, you can install the python environment: conda env create -f environment.yml (see official conda documentation). Note that the code is constantly updated and improved. We are also preparing quantum databases for Ion Trap, NV Center, Neutral Atoms, and Silicon Qubits. So please regularly pull.
-   
+
+Note that: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osaka database exists in QuantumDatabase_v1 to QuantumDatabase_v5. Starting from QuantumDatabase_v6, ibm_osaka database is no longer available but ibm_kyiv.   
+
 If you use this code in your research or in your study then we would appreciate in citing some of our works:
 https://ieeexplore.ieee.org/document/10339907, https://inspirehep.net/literature/2752266
 
