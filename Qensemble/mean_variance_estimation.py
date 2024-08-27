@@ -81,7 +81,7 @@ class MVEBase(DeterministicModel):
         )  # logging to Logger
         self.train_metrics(self.adapt_output_for_metrics(out), batch[self.target_key])
 
-        return loss
+        return loss.float()
 
 
 class MVERegression(MVEBase):

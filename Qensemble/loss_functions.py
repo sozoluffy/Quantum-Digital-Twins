@@ -155,7 +155,7 @@ class NLL(nn.Module):
         loss = 0.5 * log_sigma_2 + (
             0.5 * torch.exp(-log_sigma_2) * torch.pow((target - mu), 2)
         )
-        return loss.mean()
+        return loss.mean().float()
 
 
 class PinballLoss(nn.Module):
