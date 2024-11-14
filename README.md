@@ -19,6 +19,6 @@ To use use this code, you can install the python environment: conda env create -
 
 Note that: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osaka database exists in QuantumDatabase_v1 to QuantumDatabase_v5. Starting from QuantumDatabase_v6, ibm_osaka database is no longer available but ibm_kyiv.   
 
-If you use this code in your research or in your study then we would appreciate in citing some of our works:
+If you use this code in your research or in your study then we would appreciate in citing the related work:
 https://arxiv.org/abs/2410.23311
 
