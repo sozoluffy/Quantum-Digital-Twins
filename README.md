@@ -46,7 +46,7 @@ This is a code for generating quantum databse (or quantum digital twins) by extr
 
 2. Install dependencies:
    ```bash
-   conda env create -f environment.yml (see official conda documentation)
+   conda env create -f environment.yml 
    ```
 Note that the code is constantly updated and improved. We are also preparing quantum databases for Ion Trap, NV Center, Neutral Atoms, and Silicon Qubits. So please regularly pull.
 PS: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osaka database exists in QuantumDatabase_v1 to QuantumDatabase_v5. Starting from QuantumDatabase_v6, ibm_osaka database is no longer available but ibm_kyiv.   
