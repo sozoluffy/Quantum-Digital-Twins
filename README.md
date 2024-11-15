@@ -1,5 +1,8 @@
 # **Quantum Digital Twins**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Build Status](https://github.com/sozoluffy/Quantum-Digital-Twins/actions/workflows/build.yml/badge.svg)]
+
 This is a code for generating quantum databse (or quantum digital twins) by extracting quantum machine data from IBM quantum computers (open access) and deploying your quantum circuit models on quantum digital twins. There are several advantages:
 
 Technical advantages:
