@@ -33,7 +33,7 @@ This is a code for generating quantum databse (or quantum digital twins) by extr
 ### Prerequisites
 - **Python 3.9 or later**  
 - **Quantum Computing Framework**: [Qiskit](https://qiskit.org/) or [PennyLane](https://pennylane.ai/)
-- **Other Dependencies**: See the [requirements.txt](requirements.txt) file.   
+- **Other Dependencies**: See the [environment.yml](environment.yml) file.   
 
 ---
 
