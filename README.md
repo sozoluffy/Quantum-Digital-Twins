@@ -7,16 +7,16 @@
 
 This is a code for generating quantum databse (or quantum digital twins) by extracting quantum machine data from IBM quantum computers (open access) and deploying your quantum circuit models on quantum digital twins. Quantum Digital Twins (QDTs) bring the power of quantum computing into the realm of real-world problems. This project leverages quantum-enhanced models to build digital twins that can simulate, optimize, and predict the behavior of complex physical systems, with potential applications in manufacturing, Earth observation, healthcare, energy, and more.
 
-There are several advantages:
+## **Features**
 
-Technical advantages:
+- **Technical advantages:**
 1. It is local and fast for benchmarking noisy quantum computers.
 2. It is versioned based on timestamp. Hence, you know your data values. IBM calibration wont affect your quantum data. 
 3. It is a real quantum device database.
 4. It works even if the IBM server is down.
 5. There is no waiting time in the queue on IBM servers.
 
-Scientific advantages:
+- **Scientific advantages:**
 1. Investigate error mitigation techniques on quantum digital twins than on quantum physical systems.
 2. Investigate sources of noise and decoherence and propose mitigation strategies.
 3. Analyze the impact of noisy quantum computers on your use cases.
