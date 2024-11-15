@@ -3,7 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 
-This is a code for generating quantum databse (or quantum digital twins) by extracting quantum machine data from IBM quantum computers (open access) and deploying your quantum circuit models on quantum digital twins. There are several advantages:
+## **Overview**
+
+This is a code for generating quantum databse (or quantum digital twins) by extracting quantum machine data from IBM quantum computers (open access) and deploying your quantum circuit models on quantum digital twins. Quantum Digital Twins (QDTs) bring the power of quantum computing into the realm of real-world problems. This project leverages quantum-enhanced models to build digital twins that can simulate, optimize, and predict the behavior of complex physical systems, with potential applications in manufacturing, Earth observation, healthcare, energy, and more.
+
+There are several advantages:
 
 Technical advantages:
 1. It is local and fast for benchmarking noisy quantum computers.
