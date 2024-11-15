@@ -1,4 +1,4 @@
-# Quantum-Digital-Twins
+# **Quantum Digital Twins**
 
 This is a code for generating quantum databse (or quantum digital twins) by extracting quantum machine data from IBM quantum computers (open access) and deploying your quantum circuit models on quantum digital twins. There are several advantages:
 
