@@ -57,3 +57,8 @@ PS: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osak
 If you use this code in your research or in your study then we would appreciate in citing the related work:
 https://arxiv.org/abs/2410.23311
 
+---
+
+## **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
