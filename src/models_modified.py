@@ -27,12 +27,12 @@ import pandas
 
 import qiskit.quantum_info as qi
 from qiskit.circuit import Gate, Measure
-from QDB_Python.parameters_modified import _NANOSECOND_UNITS
+from parameters_modified import _NANOSECOND_UNITS
 
-from QDB_Python.readout_error import ReadoutError
-from QDB_Python.standard_errors import depolarizing_error
-from QDB_Python.standard_errors import thermal_relaxation_error
-from QDB_Python.noiseerror import NoiseError
+from readout_error import ReadoutError
+from standard_errors import depolarizing_error
+from standard_errors import thermal_relaxation_error
+from noiseerror import NoiseError
 
 import os, fnmatch
 

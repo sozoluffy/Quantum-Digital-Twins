@@ -22,8 +22,8 @@ from qiskit.dagcircuit import DAGCircuit
 from qiskit.converters import circuit_to_dag
 from qiskit.transpiler import TransformationPass
 from qiskit.transpiler.exceptions import TranspilerError
-from QDB_Python.quantum_error import QuantumError
-from QDB_Python.readout_error import ReadoutError
+from quantum_error import QuantumError
+from readout_error import ReadoutError
 
 InstructionLike = Union[Instruction, QuantumError, QuantumCircuit]
 

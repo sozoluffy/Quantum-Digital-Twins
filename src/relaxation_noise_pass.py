@@ -22,9 +22,9 @@ import numpy as np
 
 from qiskit.circuit import Instruction, QuantumCircuit
 from qiskit.utils.units import apply_prefix
-from QDB_Python.local_noise_pass import LocalNoisePass
-from QDB_Python.standard_errors import thermal_relaxation_error
-from QDB_Python.noiseerror import NoiseError
+from local_noise_pass import LocalNoisePass
+from standard_errors import thermal_relaxation_error
+from noiseerror import NoiseError
 
 
 class RelaxationNoisePass(LocalNoisePass):

@@ -33,18 +33,18 @@ from qiskit.providers.models import BackendProperties
 from qiskit.transpiler import PassManager
 from qiskit.utils import apply_prefix
 
-from QDB_Python.models_modified import _excited_population, _truncate_t2_value
-from QDB_Python.models_modified import basic_device_gate_errors
-from QDB_Python.models_modified import basic_device_readout_errors
+from models_modified import _excited_population, _truncate_t2_value
+from models_modified import basic_device_gate_errors
+from models_modified import basic_device_readout_errors
 
-from QDB_Python.base_quantum_error import BaseQuantumError
-from QDB_Python.quantum_error import QuantumError
-from QDB_Python.readout_error import ReadoutError
-from QDB_Python.noiseerror import NoiseError
-from QDB_Python.models_modified import find
+from base_quantum_error import BaseQuantumError
+from quantum_error import QuantumError
+from readout_error import ReadoutError
+from noiseerror import NoiseError
+from models_modified import find
 
-from QDB_Python.relaxation_noise_pass import RelaxationNoisePass
-from QDB_Python.backend_utils_modified import BASIS_GATES
+from relaxation_noise_pass import RelaxationNoisePass
+from backend_utils_modified import BASIS_GATES
 
 logger = logging.getLogger(__name__)
 

@@ -31,8 +31,8 @@ from qiskit.quantum_info.operators.channel.quantum_channel import QuantumChannel
 from qiskit.quantum_info.operators.mixins import TolerancesMixin
 from qiskit.quantum_info.operators.predicates import is_identity_matrix
 
-from QDB_Python.base_quantum_error import BaseQuantumError
-from QDB_Python.noiseerror import NoiseError
+from base_quantum_error import BaseQuantumError
+from noiseerror import NoiseError
 
 
 class QuantumError(BaseQuantumError, TolerancesMixin):

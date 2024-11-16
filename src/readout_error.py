@@ -23,7 +23,7 @@ from numpy.linalg import norm
 from qiskit.circuit import Instruction
 from qiskit.quantum_info.operators.predicates import ATOL_DEFAULT, RTOL_DEFAULT
 
-from QDB_Python.noiseerror import NoiseError
+from noiseerror import NoiseError
 
 
 class ReadoutError:

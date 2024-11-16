@@ -28,8 +28,8 @@ from qiskit.quantum_info.operators import Pauli
 from qiskit.quantum_info.operators.channel import Choi, Kraus
 from qiskit.quantum_info.operators.predicates import is_identity_matrix
 from qiskit.quantum_info.operators.predicates import is_unitary_matrix
-from QDB_Python.quantum_error import QuantumError
-from QDB_Python.noiseerror import NoiseError
+from quantum_error import QuantumError
+from noiseerror import NoiseError
 
 
 def kraus_error(noise_ops, canonical_kraus=False):
