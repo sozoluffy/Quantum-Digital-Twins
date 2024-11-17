@@ -1,7 +1,7 @@
 # **Quantum Digital Twins**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 ---
 
@@ -31,9 +31,9 @@ This is a code for generating quantum databse (or quantum digital twins) by extr
 ## **Getting Started**
 
 ### Prerequisites
-- **Python 3.9 or later**  
+- **Python 3.8 or later**  
 - **Quantum Computing Framework**: [Qiskit](https://qiskit.org/) or [PennyLane](https://pennylane.ai/)
-- **Other Dependencies**: See the [environment.yml](environment.yml) file.   
+- **Other Dependencies**: See the [environment.yml](environment.yml) for creating a conda environment and [requirements.txt](requirements.txt) files.   
 
 ---
 

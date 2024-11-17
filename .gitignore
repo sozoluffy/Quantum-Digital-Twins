@@ -1,0 +1,9 @@
+*.log        # 
+*.tmp        # 
+config.json  # 
+/data/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
