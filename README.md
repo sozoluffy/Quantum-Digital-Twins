@@ -54,7 +54,7 @@ PS: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osak
 ---
 
 ## **Applications**
-- Toy Examples for Writing and Reading Quatum Device Database
+- A Toy Example for Writing and Reading Quatum Device Database
 - Hybrid Quantum-Classical Models for Uncertainty Quantification
 - Quantum Circuit Knitting
 
