@@ -53,6 +53,13 @@ PS: ibm_osaka is down from IBM Quantum, but they launched ibm_kyiv. The ibm_osak
 
 ---
 
+## **Applications**
+**Toy Examples for Writing and Reading Quatum Device Database**
+**Hybrid Quantum-Classical Models**
+**Quantum Circuit Knitting**
+
+---
+
 ## **Article**
 If you use this code in your research or in your study then we would appreciate in citing the related work:
 https://arxiv.org/abs/2410.23311
